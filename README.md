@@ -12,7 +12,7 @@ On what the robot asks back:
 Video available at [this](https://www.youtube.com/watch?v=siHfHUm3HGE) link
 
 
-# Final project idea
+## Final project idea
 I would like to re-create a theater piece using a robot that will be one of the actors. 
 The robot will have an audio device that has programmed phrases which need to be told at a specific moment 
 
