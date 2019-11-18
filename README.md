@@ -21,7 +21,7 @@ The robot will have an audio device that has programmed phrases which need to be
 
 ## Final Project Documentation #1
 
-# Praggya and I met up to divide the work. She had interest in the the robot that is going to be assembled by the other bot. Then I've taken the "robotic arm" task to do. I had a cardboard version before I started on the wooden one. 
+### Praggya and I met up to divide the work. She had interest in the the robot that is going to be assembled by the other bot. Then I've taken the "robotic arm" task to do. I had a cardboard version before I started on the wooden one. 
 
 ![](1.jpg)
 ![](2.jpg)
