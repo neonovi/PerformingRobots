@@ -27,5 +27,5 @@ The robot will have an audio device that has programmed phrases which need to be
 ### The robot will also be attached to a DC motor at the base so it can rotate. The 
 ![](2.jpg)
 
-![](https://www.youtube.com/watch?v=UdiOwKE7tGc&feature=youtu.be)
+[Video of the shaft testing](https://www.youtube.com/watch?v=UdiOwKE7tGc&feature=youtu.be)
 
